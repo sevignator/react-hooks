@@ -1,8 +1,9 @@
 /**
  * @description Allows you to check whether the React code has be hydrated
- * prior to running some code.
+ * prior to running some code. Taken in the Professional Web Forms workshop
+ * from Epic Web.
  *
- * @author Kent C. Dodds (Professional Web Forms workshop)
+ * @author Kent C. Dodds
  */
 
 import React from 'react';
