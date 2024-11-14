@@ -21,7 +21,7 @@ export function useIsOnscreen() {
     return () => {
       observer.disconnect();
     };
-  }, [elementRef]);
+  }, []);
 
   return [isOnscreen, elementRef];
 }
